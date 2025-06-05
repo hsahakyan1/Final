@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.1.14",
+    "@radix-ui/react-select": "^2.2.5",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.513.0",
+    "shadcn": "^2.6.0",
+    "tailwind-merge": "^3.3.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^4.1.8"
+  }
+}
